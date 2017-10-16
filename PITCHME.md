@@ -12,7 +12,8 @@
   - NoFriend
   - NoConnection
 ---
-・
+- アプリアイコン
+
 
 ---
 終わり
