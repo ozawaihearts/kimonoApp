@@ -5,11 +5,12 @@
 - スプラッシュ画面
 - サイドメニュー内アイコン
 - 投稿画面内アイコン
-- イメージ（エラー：NoPost）
-- イメージ（エラー:NoFriend）
-- イメージ（エラー：NoConnection）
-- イメージ（NowLoading）
-- ノーイメージ
+- イメージ
+  - NowLoading
+  - NoImage
+  - エラー：NoPost
+  - エラー：NoFriend
+  - エラー：NoConnection
 - 推奨色
 
 ---
