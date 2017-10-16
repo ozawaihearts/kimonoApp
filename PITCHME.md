@@ -16,7 +16,15 @@
 →アプリ名決定後
 ---
 - ロゴ  
-![alt](./image_icon.png)  
+![alt](./image_logo.png)  
+→アプリ名決定後
+---
+- スプラッシュ  
+![alt](./image_splash.png)  
+→アプリ名決定後
+---
+- サイドメニュー内アイコン  
+![alt](./image_splash.png)  
 →アプリ名決定後
 ---
 終わり
