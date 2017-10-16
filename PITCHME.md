@@ -8,9 +8,9 @@
 - イメージ
   - NowLoading
   - NoImage
-  - エラー：NoPost
-  - エラー：NoFriend
-  - エラー：NoConnection
+  - NoPost
+  - NoFriend
+  - NoConnection
 ---
 ・
 
