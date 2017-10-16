@@ -1,5 +1,4 @@
-**必要なデザイン素材**（機能の取捨により追加）
-  
+**必要なデザイン素材**（機能の取捨により追加）  
 - アプリアイコン
 - ロゴ
 - スプラッシュ
@@ -10,15 +9,14 @@
   - NoImage
   - NoPost
   - NoFriend
-  - NoConnection
-  
+  - NoConnection  
 ---
 - アプリアイコン  
-  
-![alt](./image_icon.png)
-  
+![alt](./image_icon.png)  
 →アプリ名決定後
 ---
-- ロゴ
+- ロゴ  
+![alt](./image_icon.png)  
+→アプリ名決定後
 ---
 終わり
