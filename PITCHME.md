@@ -6,11 +6,11 @@
 - サイドメニュー内アイコン
 - 投稿画面内アイコン
 - イメージ
-  - NowLoading
-  - NoImage
-  - NoPost
-  - NoFriend
-  - NoConnection
+ - NowLoading
+ - NoImage
+ - NoPost
+ - NoFriend
+ - NoConnection
 ---
 ・
 
