@@ -12,7 +12,7 @@
   - NoFriend
   - NoConnection
 ---
-- アプリアイコン
+- アプリアイコン  
 ![alt](./image_icon.png)
 
 ---
